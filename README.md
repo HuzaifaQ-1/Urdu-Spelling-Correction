@@ -23,10 +23,10 @@ Urdu spelling correction is challenging because the text is noisy, informal, mor
 
 The repository includes an interactive Streamlit interface for entering an Urdu sentence, scanning possible correction candidates, and displaying the model's suggested correction with confidence scores.
 
-![GUI Screenshot](outputs/reports/assets/GUI_1.png)
-![GUI Screenshot](outputs/reports/assets/GUI_2.png)
-![GUI Screenshot](outputs/reports/assets/GUI_3.png)
-![GUI Screenshot](outputs/reports/assets/GUI_4.png)
+![GUI Screenshot](outputs/assets/GUI_1.png)
+![GUI Screenshot](outputs/assets/GUI_2.png)
+![GUI Screenshot](outputs/assets/GUI_3.png)
+![GUI Screenshot](outputs/assets/GUI_4.png)
 
 
 Run the demo locally:
