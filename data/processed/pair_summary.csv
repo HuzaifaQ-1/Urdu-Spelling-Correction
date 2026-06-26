@@ -1,0 +1,1285 @@
+﻿wrong_word,correct_word,review_label,review_reason,instances,unique_rows,wrong_in_processed_freq,correct_in_processed_freq,tweet_ids
+کے,کہ,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,6,6,4087,960,"82687,264156,266086,269036,270961,662197"
+کہ,کے,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,5,5,960,4087,"267065,270466,271032,397897,499537"
+کیسی,کسی,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,4,4,8,251,"11436,12498,150611,563221"
+کے,کی,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,3,3,4087,3360,"249450,265825,268657"
+ہے,ہیں,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,2,2,3080,1419,"89030,315507"
+اس,اسی,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,2,2,1379,117,"22169,373243"
+ہو,ہیں,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,2,2,893,1419,"477134,661013"
+ہم,ہمیں,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,2,2,376,118,"440196,448465"
+ہر,پر,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,2,2,168,1383,"9899,535615"
+بے,ہے,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,2,2,98,3080,"210525,631684"
+اسے,ایسے,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,2,2,96,139,"20016,268100"
+سی,سے,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,2,2,72,2381,"18406,658756"
+کردار,بدکردار,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,2,2,39,11,"251984,272074"
+پے,ہے,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,2,2,29,3080,"286178,439860"
+مان,ماں,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,2,2,27,128,"22169,412251"
+کروں,کرو,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,2,2,10,134,"441723,631729"
+بر,پر,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,2,1,7,1383,"416631,416631"
+رہیے,رہے,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,2,2,2,438,"159113,373625"
+کے,نے,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,4087,1414,563221
+کی,کے,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,3360,4087,440057
+کی,کیا,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,3360,804,613130
+کو,کی,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,2675,3360,217805
+سے,نے,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,2381,1414,425700
+کا,کے,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,2277,4087,472205
+کا,کی,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,2277,3360,464486
+کا,کہ,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,2277,960,80587
+کا,کوئی,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,2277,443,470460
+کر,کے,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,1491,4087,599557
+کر,کو,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,1491,2675,548861
+ہیں,ہے,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,1419,3080,399442
+کہ,کی,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,960,3360,241078
+کہ,کا,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,960,2277,140017
+کہ,کر,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,960,1491,40704
+ہو,ہوں,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,893,169,263508
+ہی,ہے,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,644,3080,286924
+ہی,ہیں,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,644,1419,282748
+اپنے,اپنی,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,394,318,140017
+ہوں,ہو,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,169,893,36790
+گی,گئی,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,167,153,240101
+جا,جو,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,150,600,344870
+دی,دے,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,149,221,295115
+نا,ہونا,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,143,58,8573
+گئے,گے,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,135,322,262281
+بن,بنی,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,130,24,461469
+کہا,کہ,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,100,960,12498
+شرم,بےشرم,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,99,86,230220
+اپنا,اپنی,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,88,318,11436
+آباد,باد,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,73,36,89030
+بنانے,بناتے,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,61,9,57940
+غیرت,بےغیرت,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,53,146,293900
+عام,سرعام,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,53,11,273290
+رہیں,رہے,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,52,438,89030
+بچہ,بچے,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,49,110,440057
+کرتی,کرتے,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,43,264,22169
+میرا,میرے,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,43,80,23755
+میرا,میری,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,43,67,23755
+مرتد,مرد,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,37,30,6727
+عمر,وقت,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,33,155,46639
+دیر,دے,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,17,221,11436
+تمیز,بدتمیز,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,14,16,286754
+چلو,چلوں,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,12,2,11436
+ملیں,ملے,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,10,44,655643
+چلی,چلے,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,10,36,573507
+کروں,دوں,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,10,8,36790
+لڑکیاں,لڑکیوں,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,9,14,468021
+مراد,مردہ,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,7,19,89030
+کسے,کسی,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,4,251,266831
+پڑھیں,پڑھی,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,4,7,315507
+اڑانے,اڑانی,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,4,1,12498
+گیں,گے,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,3,322,533710
+گیں,گی,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,3,167,12498
+جوتا,ہوتا,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,3,122,452703
+دلیر,دلیری,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,3,4,23076
+مرید,مرتد,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,2,37,652505
+تیرہ,تیرا,likely_real_word_contextual,manual full-corpus review: source and target are valid words/forms in context,1,1,2,29,608384
+دشت,دہشت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,7,3,0,44,"196996,196996,228124,506289,506289,506289,506289"
+کزاب,کذاب,not_real_word_by_proxy,source token was not observed as a processed-corpus word,5,4,0,26,"125489,128281,368902,368902,540311"
+کادیانی,قادیانی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,4,2,0,267,"419956,419956,419956,505327"
+ٹالبان,طالبان,not_real_word_by_proxy,source token was not observed as a processed-corpus word,4,2,0,68,"24215,24215,24215,497989"
+چوتئیے,چوتیے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,4,4,0,15,"264280,293859,293968,483219"
+کیمنے,کمینے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,4,4,0,10,"4864,20189,571150,587004"
+که,کہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,3,2,0,960,"457490,531366,531366"
+سندہ,سندھ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,3,1,0,69,"440614,440614,440614"
+خرامی,حرامی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,3,2,0,59,"81008,518000,518000"
+فتنه,فتنہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,3,2,0,59,"28701,84938,84938"
+یھودیوں,یہودیوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,3,3,0,28,"308120,310084,397159"
+بیواقوف,بیوقوف,not_real_word_by_proxy,source token was not observed as a processed-corpus word,3,3,0,26,"210559,288963,289252"
+سوور,سور,not_real_word_by_proxy,source token was not observed as a processed-corpus word,3,3,0,26,"284053,421706,431577"
+جھاد,جہاد,not_real_word_by_proxy,source token was not observed as a processed-corpus word,3,2,0,15,"20240,20240,148070"
+مرزی,مرزائی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,3,3,0,14,"218958,382748,535615"
+می,میں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,2,0,2642,"22169,84567"
+نہں,نہیں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,2,0,1576,"6446,12498"
+کھان,خان,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,1,0,660,"87367,87367"
+الللہ,اللہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,1,0,388,"81883,81883"
+ھـے,ھے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,1,0,366,"20456,20456"
+ہؤا,ہوا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,1,0,217,"506289,506289"
+افغانسان,افغانستان,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,1,0,209,"491522,491522"
+باجرہ,باجوہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,2,0,116,"220497,425195"
+قادیانیو,قادیانیوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,2,0,98,"49265,321563"
+مولانہ,مولانا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,2,0,79,"417559,605881"
+ھوئ,ہوئی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,2,0,78,"5857,72509"
+جُھوٹ,جھوٹ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,1,0,71,"609522,609522"
+فتنہء,فتنہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,1,0,59,"217175,217175"
+یہوذی,یہودی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,2,0,58,"125489,128281"
+پرویزا,پرویز,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,2,0,51,"503100,552372"
+بکوس,بکواس,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,2,0,50,"571667,628841"
+تباھ,تباہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,2,0,47,"397159,665066"
+آیین,آئین,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,2,0,45,"432326,445751"
+بگوڑے,بھگوڑے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,2,0,39,"267879,303916"
+انتہائ,انتہائی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,2,0,37,"2780,632467"
+انتہاٸی,انتہائی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,2,0,37,"264124,268100"
+نگا,ننگا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,2,0,32,"20244,203923"
+یوتھییے,یوتھیے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,2,0,28,"279575,446363"
+منفاقت,منافقت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,2,0,25,"442352,580538"
+اخری,آخری,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,1,0,22,"652505,652505"
+بضدل,بزدل,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,2,0,22,"285955,286974"
+فائیدہ,فائدہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,2,0,17,"10343,390154"
+ادارا,ادارہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,2,0,15,"197827,646251"
+کنچری,کنجری,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,1,0,15,"417202,417202"
+مرزئی,مرزائی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,2,0,14,"535615,563841"
+ٹوئیت,ٹوئیٹ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,1,0,14,"285970,285970"
+ذنا,زنا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,1,0,13,"333427,333427"
+گھریدہ,غریدہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,1,0,13,"609540,609540"
+اسپتال,ہسپتال,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,1,0,12,"287377,287377"
+زلت,ذلت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,2,0,12,"87242,396975"
+ابادی,آبادی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,2,0,11,"45180,400230"
+اخرت,آخرت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,1,0,11,"541193,541193"
+بڑوا,بھڑوا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,1,0,10,"518000,518000"
+مرزائوں,مرزائیوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,2,0,10,"87367,159240"
+کُتی,کتی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,2,0,10,"382073,502222"
+افغانو,افغانوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,1,0,9,"148070,148070"
+چُوت,چوت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,2,0,9,"417101,625572"
+قمــــر,قمر,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,2,0,8,"20242,422112"
+بکائو,بکاؤ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,2,0,7,"285955,286974"
+بیھودہ,بیہودہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,1,0,6,"308675,308675"
+فِٹے,فٹے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,1,0,5,"399278,399278"
+پلیر,پلیئر,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,2,0,4,"12039,252409"
+بکاءو,بکاو,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,2,0,3,"150370,260969"
+دلّہ,دلہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,2,0,3,"630148,654814"
+دیکھای,دیکھائی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,1,0,3,"230553,230553"
+کھائ,کھائی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,2,0,3,"122634,538911"
+جرت,جرأت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,2,2,0,2,"286242,333032"
+کاے,کے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,4087,250544
+خی,کی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3360,552372
+قسم۔کی,کی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3360,223018
+۔کی,کی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3360,649323
+حے,ہے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3080,462777
+اسر,اور,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2799,21090
+کوکی,کو,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2675,498086
+مییں,میں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2642,323042
+انگیزی,سے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2381,398617
+ڈھنگا,کا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2277,592447
+ہا,کا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2277,611029
+جر,کر,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1491,152267
+ٹر,کر,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1491,443465
+کرسر,کر,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1491,273290
+ھئں,ہیں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1419,10713
+ھین,ہیں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1419,546421
+نےنے,نے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1414,270532
+۔پر,پر,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1383,623273
+ئہ,یہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1341,643487
+یـہ,یہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1341,20456
+یی,یہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1341,593254
+لہ,کہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,960,100816
+ھوگا؟ایک,ہو,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,893,272074
+کیا؟؟؟,کیا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,804,240560
+هی,ہی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,644,87810
+یی,ہی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,644,282748
+أپ,آپ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,527,649729
+ہء۔,۔,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,483,264775
+۔۔؛؛,۔,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,483,502065
+تھتھا,تھا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,482,574530
+تہا,تھا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,482,318606
+کوءی,کوئی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,443,505327
+کویؑ,کوئی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,443,575275
+رئے,رہے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,438,267509
+کررئے,رہے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,438,443465
+مملک,ملک,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,423,296497
+پلک,ملک,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,423,250544
+سبی,سب,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,401,2780
+اپے,اپنے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,394,287034
+للا,اللہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,388,471590
+یم,ہم,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,376,477134
+ہیی۔,ہے۔,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,359,490495
+لےگا,گا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,350,10197
+دںا,دیا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,335,618993
+دیا۔۔,دیا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,335,443587
+گے۔۔۔۔,گے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,322,263615
+نےوالے,والے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,300,430867
+واے,والے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,300,28920
+آگـر,اگر,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,288,20456
+پھر۔۔۔۔,پھر,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,274,224961
+پھنیر,پھر,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,274,20242
+پیھــــر,پھر,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,274,20456
+اعوام,عوام,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,271,266007
+قادنی,قادیانی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,267,333427
+قددیانی,قادیانی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,267,13703
+ءا,یا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,249,666446
+،،افغانستان,افغانستان,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,209,418146
+افغاستان,افغانستان,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,209,570552
+افغانستانان,افغانستان,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,209,87589
+افغانستانوں,افغانستان,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,209,101061
+په,پہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,187,628561
+دع,دو,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,184,170026
+پوکستانی,پاکستانی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,184,393100
+آٸ,آئی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,180,82410
+أئ,آئی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,180,286217
+أئی,آئی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,180,10553
+ائ,آئی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,180,122434
+نازی,نیازی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,178,555167
+ئوں,ہوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,169,8276
+لع,لعنت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,168,230493
+لنت,لعنت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,168,479119
+پپلے,پہلے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,159,429465
+کری,کرے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,149,3156
+اسلامہ,اسلام,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,147,493337
+جلاف,خلاف,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,144,210525
+خکاف,خلاف,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,144,220485
+گٰے,گئے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,135,327744
+گےُ,گئے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,135,359006
+بپ,باپ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,131,261209
+خرام,حرام,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,128,109255
+کیوںکہ,کیونکہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,128,421644
+امریکے,امریکہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,125,469920
+دئیں,دیں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,119,505554
+باجرے,باجوہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,116,241078
+باجو,باجوہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,116,240619
+ہںونے,ہونے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,115,134315
+بھائ،,بھائی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,114,116577
+بھائہ,بھائی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,114,344870
+بھاٸ,بھائی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,114,569244
+بھایئ,بھائی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,114,36758
+جنرنیل,جنرل,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,112,612041
+وجــہ,وجہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,112,20456
+افغنا,افغان,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,108,86614
+باک,پاک,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,107,89720
+مرز,مرزا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,102,128281
+دیلھ,دیکھ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,101,488291
+دیکھت,دیکھ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,101,224604
+تُمام,تمام,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,99,611563
+قادیانیون,قادیانیوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,98,313154
+جھی,جی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,94,556873
+نسل۔کے,نسل,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,94,293900
+ھیـں,ھیں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,89,20456
+ھین,ھیں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,89,665066
+عوت,عورت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,88,264878
+سمنجھ,سمجھ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,87,250544
+ہےمسلمان,مسلمان,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,87,26628
+ائیے,آئے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,84,482749
+اہے,آئے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,84,289590
+غداد,غدار,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,84,231109
+غددار,غدار,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,84,426997
+قتلے,قتل,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,84,146118
+لاگا,لگا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,84,461351
+چائہیے,چاہیے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,81,579958
+اَیسا,ایسا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,80,406478
+عذت,عزت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,80,331847
+ہمری,ہماری,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,79,286200
+هوتی,ہوتی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,78,457490
+پیداہو,پیدا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,78,8573
+ہویؑ,ہوئی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,78,261205
+یوئ,ہوئی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,78,599483
+بّڑے,بڑے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,72,266215
+بڑھے,بڑے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,72,20189
+آولاد,اولاد,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,71,350484
+جٓان,جان,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,71,406478
+منو,منہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,71,312713
+منہہ,منہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,71,437571
+مو,منہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,71,438332
+میڈیاٸی,میڈیا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,71,72259
+جائین,جائیں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,70,461351
+جائیں۔۔,جائیں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,70,20324
+وط,وطن,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,70,210580
+زراری,زرداری,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,68,20313
+زردادی,زرداری,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,68,623273
+طلبان,طالبان,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,68,665066
+ٹابت,ثابت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,68,461724
+ھندستان,ہندوستان,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,65,63004
+أرمی,آرمی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,63,495032
+ژندہ,زندہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,62,237326
+دونون,دونوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,61,427930
+سہافی,صحافی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,60,285949
+واسے,ویسے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,60,320617
+باهر,باہر,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,59,457490
+حرمی,حرامی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,59,286200
+لعنتیی,لعنتی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,59,324068
+لنتی,لعنتی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,59,285785
+لنعتی,لعنتی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,59,43765
+کراپٹ,کرپٹ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,59,493337
+ہرامی,حرامی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,59,283559
+یاھودی,یہودی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,58,603533
+یہودن,یہودی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,58,6727
+ڈین,دین,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,57,257711
+رانڈی,رنڈی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,56,566168
+غنڈی,رنڈی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,56,266007
+لیں۔۔۔۔۔۔,لیں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,56,263615
+چعل,چل,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,56,436231
+ہمیشی,ہمیشہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,56,264156
+زُبان,زبان,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,55,551096
+بیتی,بیٹی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,54,573507
+گیرت,غیرت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,53,261215
+بنجابیوں,پنجابیوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,52,22839
+پنجابجوں,پنجابیوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,52,419151
+کہی,کہیں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,49,645915
+کیہں,کہیں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,49,210211
+بہیں,بہن,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,48,506123
+سیاتدانوں,سیاستدانوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,48,84850
+سیاستدانو,سیاستدانوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,48,511688
+ءملہ,حملہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,47,256056
+بنیا,بنایا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,47,437035
+تُباہ,تباہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,47,609522
+حمله,حملہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,47,257384
+اجنٹ,ایجنٹ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,46,288500
+اجینٹ,ایجنٹ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,46,282748
+جگی,جگہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,46,270532
+یوتھنیوں,یوتھیوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,46,170052
+یوتھییوں,یوتھیوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,46,287456
+آٸین,آئین,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,45,266201
+مسلمانون,مسلمانوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,45,427930
+گندھی,گندی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,45,266461
+گھندی,گندی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,45,50637
+آفغانی,افغانی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,44,563221
+افگاندی,افغانی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,44,80587
+بکل,نکل,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,44,36854
+تاکه,تاکہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,44,457490
+تومتیں,تمہیں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,44,589918
+تکے,تاکہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,44,520208
+نلک,نکل,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,44,547660
+کنجرا,کنجر,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,44,285927
+کنجی,کنجر,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,44,631729
+کنخر,کنجر,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,44,560201
+کنچر,کنجر,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,44,417202
+ہشت,دہشت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,44,385425
+خانی,خانہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,42,27483
+مطابق؛,مطابق,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,41,268654
+چوکا,چکا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,41,264156
+حجرت,حضرت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,40,12079
+پٹرواڑی,پٹواری,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,40,241244
+پٹــواری,پٹواری,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,40,197302
+پٹوارں,پٹواری,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,40,628024
+سوچھ,سوچ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,39,268492
+نبوعت,نبوت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,39,488291
+چودری,چوہدری,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,39,463592
+حیال,خیال,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,38,541931
+شیہ,شیعہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,38,419956
+انتھائی,انتہائی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,37,100768
+دارکون؟,دار,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,37,377178
+پٹواریون,پٹواریوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,37,84957
+پٹوارییوں,پٹواریوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,37,180583
+پھٹواریوں,پٹواریوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,37,137371
+۔۔پٹواریوں,پٹواریوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,37,649323
+بندہُ,بندہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,36,264915
+نعفرت,نفرت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,36,476532
+پورہ,پورا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,36,608384
+چایےء,چاہئے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,36,614017
+پیپل,پیپلز,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,35,499537
+ھوجائے,ہوجائے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,35,220567
+بنگالیہوں,بنگالیوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,34,46144
+شیطاں,شیطان,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,34,388704
+ومروپے,روپے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,34,152267
+آوا,آواز,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,33,240208
+بہتہ,پیسہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,33,503430
+بیسہ,پیسہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,33,401009
+عداروں,غداروں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,33,611618
+فرک,فرق,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,33,20016
+کیہنا,کہنا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,33,645915
+پوھنچ,پہنچ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,32,231068
+ڈب,ڈوب,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,32,494050
+جتنیا,جتنا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,31,268645
+رسو,رسول,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,31,471590
+الھی,الہی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,30,628561
+بےغرتوں,بےغیرتوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,30,280861
+تکیلف,تکلیف,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,30,582469
+کڑور,کروڑ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,30,559355
+تمہرا,تمہارا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,29,12224
+ورتمہارا,تمہارا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,29,46639
+۱سزا,سزا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,29,108096
+جالئ,جعلی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,28,268948
+لیفافے,لفافے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,28,268492
+ہہودیوں,یہودیوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,28,310069
+یخودیوں,یہودیوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,28,87597
+یوتھیےبد,یوتھیے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,28,286754
+یوتھے,یوتھیے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,28,12498
+أخر,آخر,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,27,662197
+اعلاج,علاج,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,27,268341
+دلّال,دلال,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,27,659152
+دَم,دم,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,27,555786
+قبصہ,قبضہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,27,208883
+اُردُو,اردو,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,26,551096
+خزاب,کذاب,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,26,12079
+سئور,سور,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,26,281627
+کھپتان,کپتان,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,26,527548
+سخط,سخت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,25,84806
+پٹرھ,پڑھ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,25,578543
+چوکی,چکی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,25,264156
+چگی,چکی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,25,503100
+گدا,گدھا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,25,540383
+ھاتھوں,ہاتھوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,25,425700
+بنی۔,بنی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,24,660121
+جیتنی,جتنی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,24,285738
+جینم,جہنم,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,24,43582
+حصاب,حساب,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,24,264878
+چوتیاز,چوتیا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,24,85472
+یوتھا,یوتھیا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,24,290450
+یوتھیاز,یوتھیا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,24,85472
+یھوتیا,چوتیا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,24,573507
+خپر,خبر,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,23,649729
+نجایز,ناجائز,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,23,624382
+نیاد,نہاد,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,23,220485
+حلت,حالت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,22,10229
+علاوھ,علاوہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,22,268948
+بگھوڈا,بھگوڑا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,21,666296
+بھنوں,بہنوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,21,469920
+توہینات,توہین,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,21,449430
+توہیں,توہین,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,21,18406
+رامان,الرحمن,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,21,461575
+سمجتھا,سمجھتا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,21,190406
+صحیع,صحیح,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,21,184481
+ویوڈیو,وڈیو,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,21,583173
+پختوں,پختون,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,21,238428
+پینکی,پنکی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,21,445713
+گاشتي,گشتی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,21,608466
+جائو,جاو,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,20,420625
+دلّے,دلے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,20,86967
+رھنا,رہنا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,20,440715
+محغوظ,محفوظ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,20,269950
+مزھبی,مذہبی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,20,660553
+معامافیا,مافیا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,20,265863
+کوتا,کھوتا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,20,432932
+کُرسی,کرسی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,20,590444
+بہول,بھول,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,19,630732
+جھوٹھی,جھوٹی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,19,488291
+دھشتگردی,دہشتگردی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,19,656671
+غدادی,غداری,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,19,50142
+نکاخ,نکاح,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,19,266194
+کروبار,کاروبار,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,19,506055
+ھوس,ہاؤس,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,19,86585
+رایے,رائے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,18,423534
+کلیے,کیلیے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,18,350484
+حواب,خواب,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,17,266672
+دُر,در,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,17,399278
+سےامت,امت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,17,398617
+فاٸدہ,فائدہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,17,72259
+کہی,کئی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,17,493337
+بنیادو,بنیادی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,16,55303
+بھنونک,بھونک,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,16,285716
+بھونگ,بھونک,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,16,220116
+بھوٹ,بوٹ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,16,458421
+ذور,زور,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,16,355943
+سورائیکی,سرائیکی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,16,465265
+طواہف,طوائف,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,16,261221
+ڈزل,ڈیزل,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,16,581810
+ارام,آرام,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,15,264878
+دارصل,دراصل,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,15,427930
+رُو,رو,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,15,413809
+مرانڈو,عمرانڈو,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,15,644864
+منیر۔۔۔,منیر,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,15,1098
+نتظار,انتظار,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,15,562448
+ٹتو,ٹٹو,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,15,20163
+پھضلو,فضلو,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,15,651105
+پیسو,پیسوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,15,661013
+چوتھیے,چوتیے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,15,210649
+کماااااااااااال,کمال,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,15,150444
+کنجرون,کنجروں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,15,664343
+گس,گھس,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,15,269846
+اغاز,آغاز,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,14,266282
+جہــالت,جہالت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,14,197302
+درم,روم,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,14,285908
+سھی,سہی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,14,631684
+طارڑ,تارڑ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,14,647782
+مشور,مشہور,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,14,3156
+ٹؤیٹ,ٹوئیٹ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,14,665624
+ٹارڑ,تارڑ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,14,416631
+کانتیجہ,نتیجہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,14,103025
+کیہتی,کہتی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,14,365562
+ھے۔۔,ہے۔۔,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,14,80882
+برابرشریک,برابر,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,13,603569
+حکمرانط,حکمران,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,13,427732
+خابیص,خبیث,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,13,266467
+خالیء,خالی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,13,4959
+خبیس,خبیث,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,13,427811
+رذیل,زلیل,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,13,8834
+زناہ,زنا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,13,661160
+غریدا,غریدہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,13,261314
+لفاگوں,لفافوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,13,272453
+لگاے,لگائے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,13,380520
+لیفافوں,لفافوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,13,269846
+واعقئی,واقعی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,13,409187
+ھیج,بھیج,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,13,436787
+اصلحہ,اسلحہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,12,303903
+داخواست,درخواست,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,12,20078
+دیوگند,دیوبند,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,12,79406
+لاین,لائن,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,12,369490
+نکا,نکالے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,12,10197
+کنٹیر,کنٹینر,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,12,270243
+کولا,کھلا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,12,264631
+گیرآج,گیراج,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,12,576244
+ہزارو,ہزاروں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,12,20229
+اڈیوز,آڈیوز,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,11,613130
+بحاری,بخاری,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,11,466686
+بھوکتا,بھونکتا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,11,348714
+ثنااللّٰہ,ثنا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,11,265234
+خُمینی,خمینی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,11,70473
+دھوکی,دھوکے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,11,447979
+صحافیون,صحافیوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,11,269868
+ضایع,ضائع,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,11,508201
+مہنگاٸی,مہنگائی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,11,659216
+ٹوڑا,تھوڑا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,11,110044
+پونہچے,پہنچے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,11,36845
+چمیل,جمیل,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,11,309484
+گزشدہ,گزشتہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,11,421644
+یہودؔ,یہود,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,11,1291
+آنکھو,آنکھوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,10,272235
+آیے,آۓ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,10,110044
+احتلام,احترام,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,10,247743
+بددھے,بڈھے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,10,645683
+بوںکنا,بھونکنا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,10,631729
+بڈھن,بڈھے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,10,270380
+بڑوآ,بھڑوا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,10,83748
+بھکارئ,بھکاری,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,10,261648
+بھکونا,بھونکنا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,10,285975
+رضواں,رضوان,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,10,252409
+رکضو,رکھو,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,10,369490
+رہیتی,رہتی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,10,286921
+شوری۔۔۔,شور,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,10,263615
+غستاخی,گستاخی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,10,466129
+قیامِ,قیام,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,10,610415
+مرزاہیوں,مرزائیوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,10,211632
+معاملا,معاملہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,10,360406
+پانسی,پھانسی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,10,36790
+ڈاٹ,ڈٹ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,10,20226
+کروائ,کروائی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,10,417742
+گُُستاخی,گستاخی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,10,211632
+بنائ,بنائی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,9,362956
+بنای,بنائی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,9,592447
+بيزتی,بےعزتی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,9,12224
+بیزتی,بےعزتی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,9,12224
+تجـربـہ,تجربہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,9,20456
+تجـربہ,تجربہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,9,20456
+جایے,جاے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,9,269913
+داڈھی,داڑھی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,9,14394
+لہزا,لہذا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,9,150004
+مغیار,معیار,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,9,261002
+مقدص,مقدس,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,9,210555
+پوگئی,ہوگئی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,9,443249
+پھاروقھی,فاروقی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,9,609540
+پھاورقھی,فاروقی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,9,609540
+چُپ,چپ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,9,266460
+چپے,چپ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,9,465153
+چیکیں,چیخیں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,9,501636
+کرواٸیں,کروائیں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,9,285997
+کزارش,گزارش,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,9,26954
+ہلی,ہیلی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,9,571667
+بُھوکے,بھوکے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,8,113294
+بیغرتووو,بےغیرتو,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,8,240560
+جوتا۔,ہوتا۔,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,8,452703
+حدایت,ہدایت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,8,6517
+دَلا,دلا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,8,84424
+ذہیں,ذہن,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,8,573507
+رہام,ریحام,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,8,650794
+زاہر,ظاہر,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,8,210211
+غبادت,عبادت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,8,20001
+غصّہ,غصہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,8,286135
+مائوں,ماوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,8,233601
+پھیںک,پھینک,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,8,228985
+کُرم,کرم,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,8,264124
+گصہ,غصہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,8,416044
+ہدائت,ہدایت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,8,665624
+بتاٸیں,بتائیں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,7,442053
+بچچو,بچو,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,7,327682
+بکاؤو,بکاؤ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,7,581810
+بھجنے,بھیجنے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,7,617078
+حطرہ,خطرہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,7,332694
+دعوا,دعوی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,7,488291
+دماد,داماد,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,7,590742
+رھا۔,رہا۔,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,7,399736
+سزاےء,سزائے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,7,432175
+شھرت,شہرت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,7,150805
+مکّار,مکار,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,7,638184
+مہنے,مہینے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,7,15971
+نک,ناک,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,7,399504
+پرردہ,پردہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,7,87249
+پہلانے,پھیلانے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,7,310525
+چمھچـے,چمچے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,7,20456
+ڈاین,ڈائن,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,7,264780
+کائینات,کائنات,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,7,128281
+کوپٹر,کاپٹر,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,7,571667
+کٹھے,اکٹھے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,7,20229
+کھسراے,کھسرے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,7,559169
+کیلٸے,کیلے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,7,126998
+کیۓ,کیئے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,7,421394
+ھندوں,ہندوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,7,422578
+ہندوو,ہندوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,7,595627
+أو,آو,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,6,267065
+اتفاقِ,اتفاق,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,6,569706
+ارستو,ارسطو,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,6,272622
+استعیفیٰ,استعفی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,6,590444
+الکابات,القابات,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,6,214784
+اهمیت,اہمیت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,6,405379
+اگرانے,گرانے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,6,649729
+بچیو,بچیوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,6,266831
+تحفو,تحفہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,6,266674
+خوس,حوس,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,6,46898
+خیران,حیران,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,6,415023
+دہاٸی,دہائی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,6,265255
+شاباس,شاباش,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,6,86583
+عتراض,اعتراض,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,6,635587
+علیدگی,علیحدگی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,6,124481
+محظ,محض,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,6,10526
+محفظوں,محافظوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,6,231051
+نید,نیند,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,6,12498
+والدھ,والدہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,6,602782
+پھوک,ڈرپوک,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,6,240560
+چاہتیُ,چاہتی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,6,264493
+ڈرپوق,ڈرپوک,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,6,651259
+کہلے,کھلے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,6,316097
+آفراب,آفتاب,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,5,573507
+أکڑ,اکڑ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,5,649729
+ائ,ائی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,5,122434
+باتمیزی,بدتمیزی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,5,286200
+بیبجے,بھیجے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,5,658882
+بیویان,بیویاں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,5,456058
+جامعا,جامعہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,5,469920
+جرمنہی,جرمنی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,5,43582
+روائیت,روایت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,5,170722
+رہپ,ریپ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,5,347690
+فُرصت,فرصت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,5,623072
+لانعتوں,لعنتیوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,5,621591
+لوگو۔۔۔,لوگو,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,5,251984
+لڑایئ,لڑائی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,5,566328
+لکب,لقب,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,5,270012
+ماروا,مروا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,5,417202
+وائ,وائی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,5,87056
+ٹانگے,ٹانگیں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,5,588446
+پائ,پائی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,5,150346
+گھڈیاں,گھڑیاں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,5,436787
+ھنس,ہنس,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,5,263615
+اندا,اندھا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,4,493337
+اُڑانے,اڑانے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,4,569244
+ایمانیہ,ایمانی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,4,308566
+جیے,جئے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,4,20313
+دلّی,دلی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,4,32518
+ساحبان,صاحبان,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,4,496753
+سپائی,سپاہی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,4,521120
+عیسائ,عیسائی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,4,471220
+فرعونیوں,فرعونوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,4,143094
+لائ,لائی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,4,107874
+لالچی۔,لالچی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,4,65684
+مطمیئن,مطمئن,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,4,567255
+مغزرت,معزرت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,4,261002
+نیوذی,نیوزی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,4,254929
+ٹر,ٹرٹر,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,4,443465
+ڈڈُو,ڈڈو,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,4,266824
+کمینہی,کمینگی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,4,273915
+ھجتے,بھیجتے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,4,211632
+ھضم,ہضم,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,4,64758
+ھوی,ھوئی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,4,624382
+یھودیت,یہودیت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,4,397159
+آئ،,آئی،,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,268441
+احلاق,اخلاق,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,286650
+اوٹاتا,اٹھاتا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,588446
+بجاٸے,بجاۓ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,55303
+بددینات,بددیانت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,504884
+برکرار,برقرار,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,421644
+بِلاشُبہ,بلاشبہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,551096
+بکاٶ,بکاو,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,265255
+تعبوت,تابوت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,435331
+تھریروں,تحریروں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,61923
+جاھلیت,جاہلیت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,370946
+جبیثوں,خبیثوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,273566
+حارش,خارش,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,469920
+خائین,خائن,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,636054
+خبیسوں,خبیثوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,57194
+ذلفقار,ذولفقار,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,590333
+زلفقار,ذولفقار,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,661139
+سندھییوں,سندھیوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,89987
+طابوت,تابوت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,310069
+عافہہ,عافیہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,297362
+فـرشتے,فرشتے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,20456
+لاٸکس,لائکس,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,72259
+مستندوں,مستند,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,661124
+منہگے,مہنگے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,635833
+ٹائیپ,ٹائپ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,264775
+ٹھٹھے,ٹٹے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,655643
+پرڈیوسر,پروڈیوسر,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,265606
+چوڑیل,چڑیل,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,269005
+چپانے,چبانے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,251026
+چیریں,چیرمین,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,170026
+ڈاکوُں,ڈاکووں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,611618
+ڈرذموں,ڈراموں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,46898
+کاروائاں,کاروائیاں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,350588
+کارواٸیاں,کاروائیاں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,623024
+کسری,خسری,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,268768
+کھلواڈ,کھلواڑ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,27147
+کھلہ,کھلی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,461476
+ھانبداری,جانبداری,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,81212
+ھاھاھاھھاھا,ھاھاھاھاھا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,3,150095
+آچار,اچار,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,546255
+اؤے,اوۓ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,267187
+اعطاعت,اطاعت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,565403
+الباکستانیو,الباکستانیوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,101061
+انقریب,عنقریب,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,240633
+باجوا،,باجوہ،,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,240547
+بدحرامی,بدامی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,170182
+بُنڈ,بنڈ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,635584
+بھئئ,بھئ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,626059
+بھالی,بھلی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,285759
+بھاٸ,بھاٸی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,451035
+بھجتی,بھیجتی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,477134
+بھینکی,پھینکی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,571667
+بہنویی,بہنوئی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,556873
+ترجحی,ترجیح,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,508201
+جائداد,جائیداد,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,454055
+جرنلز۔,جرنلز,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,40704
+دگرے,دھرے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,283856
+دیکھاءے,دیکھاے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,505327
+رپوٹنگ,رپورٹنگ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,449575
+زہنوں,ذہنوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,231059
+سافی,صافی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,405565
+سنڈ,سینڈ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,298325
+سوئ,سوئی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,210106
+فائ,فائی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,538911
+للی,لالی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,348595
+لوندا,لونڈا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,461351
+مئین,متین,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,492319
+مزاہب,مذاہب,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,47048
+نوازاے,نوازے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,403051
+ٹوٸٹ,ٹوئٹ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,189171
+ٹھک,ٹھگ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,40025
+پئٹرول,پٹرول,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,64758
+پایپ,پائپ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,369490
+پروز,پرواز,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,20016
+پروپاگینڈا,پروپگینڈا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,397897
+پڑھائ,پڑھائی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,417742
+پہرا,پہرہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,140843
+پیخانہ,پاخانہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,108446
+چایتا,چاہا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,605422
+چوّلیں,چولیں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,209796
+کرایک,کریک,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,59093
+کوویں,کنویں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,662174
+کچڑا,کچرا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,623024
+ھڑپ,ہڑپ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,147847
+ھیجڑا,ہیجڑا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,86614
+ہوگی؟,پرس,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,377178
+ہڑھانا,پڑھانا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,227117
+ہیں۔اج,ہیں۔آج,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,233601
+۔کیسے؟,کیسے؟,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,406571
+۔۔۔جیوووو,جیونیوز,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,2,86861
+،لہزا,،لہذا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,410397
+،یھودیت,،یہودیت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,315507
+آئیل,آئل,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,10987
+آخ,اخ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,271246
+آرٹیلز,آرٹیکلز,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,49394
+آلاءکار,آلاکار,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,627263
+آکاس,عکاسی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,286650
+اؐسترا,استرا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,645943
+اتما۔لخ,آتما۔لخ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,479119
+افاقہ,آفاقہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,268670
+اناؤں,اناوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,656534
+انُکو,انُ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,611029
+انکٹ,انگت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,470928
+ايك,ايک,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,261648
+اُبئي,ابي,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,659152
+اِمثال,امثال,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,406478
+ایجاراداری,ایجاداری,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,594433
+باجییان,باجییاں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,30151
+بازپرس,کون؟باز,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,377178
+بتاںٔیں,بتایں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,616623
+بدمذہبوں,بدمذہوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,79406
+برایے,براۓ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,22169
+بغلولون,بغلولوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,159113
+بولنگ,باؤلنگ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,251773
+بںگلہ,بگلہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,46144
+بھروں,بھٹروہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,559169
+بھُونکے,بھُونکنے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,180530
+بہالپوری,بہاولپوری,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,466753
+بہروسا,بھروسا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,399963
+بیغرت۔,بیغیرت۔,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,266703
+تمھارہ,تمہارہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,556873
+تھا۔ھر,تھا۔ہر,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,312746
+تہزیب,تذیب,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,423315
+جاوں۔۔۔ھم,جاؤ۔۔۔ھم,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,479119
+جوتیاں,چوتیاں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,559169
+جپانی,جاپانی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,431088
+جھاگی۔۔۔لیکن,جاگی۔۔۔لیکن,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,311591
+حفصا,حفصاء,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,469920
+خوامخا,خوامخواہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,274588
+خوشنمائ,خوشنمائی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,170722
+دائ,دائی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,388646
+دانشوڑی,دانشوری,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,251461
+دفینڈر,ڈفینڈر,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,282
+دلائی,دلائے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,297463
+دنیائ,دنیائی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,21994
+دہج,دہیج,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,339841
+ذمہداری,ذمداری,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,67883
+رؤف,راؤف,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,264915
+راوء,راو,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,165163
+رٹائرڈ,رئٹائرڈ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,397159
+سناٶ,سناو,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,6446
+سکریپٹ,سکرپٹ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,265815
+عوراتو,عورتو,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,194598
+فوس,فورس,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,273943
+فیرنگیو,فیرنگیوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,576162
+لائیبری,لائیبریری,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,465265
+لانڈرر,لانڈر,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,271236
+لتھڑی,لتھڑا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,264915
+لل,نل,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,251058
+لورا,لوڑا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,608466
+لوُز,لوز,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,272622
+لکھاوا,لکھوا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,266728
+ماسوا,ماسواے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,80689
+مزھب,مزہب,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,200382
+مسلۂ,مسلئہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,537553
+مشھوری،,مشہوری،,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,438525
+منائ,منائی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,146591
+میثاقِ,میثاق,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,569706
+میشن,مشین,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,320617
+ناقصُل,ناقصل,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,409187
+ناپیعد,ناپید,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,610415
+نسلن,نسلین,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,190221
+نلوقت,الوقت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,534711
+نکلینی,نکلنی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,272590
+نہی۔مرتد,نہیں۔مرتد,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,89720
+واحدت,وحدت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,441723
+واوڈا,ووڈا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,567975
+ورگلاتا,ورغلاتا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,662197
+وَضع,وضع,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,551096
+١،کرپ,١،کرپٹ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,496022
+ٹؤیٹ۔,ٹوئیٹ۔,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,665624
+ٹوکے,ٹھوکے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,654235
+ٹُھس,ٹھس,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,264124
+ٹیھکہ,ٹھیکہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,505554
+پاگٸی,پاگی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,190123
+پتورای,پٹورای,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,559169
+پروفائیل,پروفائل,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,279364
+پولوں,پھولوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,263039
+پٹاکا,پٹاخہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,635584
+پھیسل,پھسل,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,368902
+پہنایں,پہنائیں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,263039
+پیشگوءی,پیشنگوئی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,505327
+پیٹی,پٹی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,251461
+چودای,چودائی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,628524
+چودتا,چودھتا,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,518158
+چھڑایا،,چڑایا،,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,498676
+ڈئیر,ڈیئر,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,292963
+کبیرا,کبیرہ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,331847
+کنٹینرس,کنٹینرز,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,339841
+کنیزوں,کنیزیں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,265825
+کچھے,کھچے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,267543
+کھلایٔ,کھلائی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,289223
+کھوئیں,کنواں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,654235
+کہہندی,کہندی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,243315
+کیبنٹ,کیبنیٹ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,137100
+گشتیون,گشتیوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,664343
+گمبتدوں,گمبدوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,103349
+گھناؤنے,گھناونے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,664954
+گیڈڑوں,گیڈوں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,266284
+ھائ,ھائی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,279364
+ھاریں,ہاریں,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,254929
+ھتوڑے,ہتوڑے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,571953
+ھوا۔وائ,ھوا۔وائی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,538911
+ھومو,ہومو,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,224841
+ھیں۔۔ایسے,ہیں۔۔ایسے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,265786
+ہمیتی,ہمایتی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,571482
+ہنپتے,ہانپتے,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,261160
+ہے،کوی,ہے،کوئ,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,200382
+ہےکینٹینر,ہےکنٹینر,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,263939
+یاھودی,یایہودی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,664343
+یوہیں,یوہی,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,350588
+ےھے،حفاظت,ہیں،حفاظت,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,246408
+۔۔۔۔سن,۔۔۔۔ان,not_real_word_by_proxy,source token was not observed as a processed-corpus word,1,1,0,1,567992
+کوئ,کوئی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,35,29,18,443,"1649,30319,40704,43582,49377,72528,72528,85935,122434,127261,138308,168178,184768,254333,263987,267666,270687,369800,392995,413492,413492,413492,413492,413492,431065"
+نہی,نہیں,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,29,21,48,1576,"17588,85935,122434,122434,133570,191757,191757,191757,191757,226978,228985,228985,228985,230493,269282,270469,304290,350484,396825,413174,465265,470458,482749,486639,486639"
+پے,پہ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,16,16,29,187,"84799,108096,220623,240532,253460,271246,279793,283398,285954,285986,380890,426598,435158,456238,632965,661982"
+آئ,آئی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,13,10,2,180,"10853,127261,253981,293478,340513,340513,355202,482028,482028,552772,564311,564311,618293"
+بھائ,بھائی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,11,10,4,114,"4061,89797,107874,133570,228985,228985,263921,267750,357438,599483,660495"
+زلیل,ذلیل,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,9,9,13,43,"10110,210211,210373,266802,266890,391910,402890,451523,606169"
+نھی,نہیں,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,9,6,2,1576,"84477,270818,396975,469920,543296,594227,594227,594227,594227"
+ہوئ,ہوئی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,8,8,7,78,"282,3468,4846,210106,267645,334965,561643,632467"
+بیغرت,بیغیرت,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,6,6,19,41,"9660,253111,261060,265863,297463,306171"
+لئیے,لئے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,6,6,18,168,"267835,267896,270730,271032,558458,664216"
+گئ,گئی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,6,5,12,153,"263857,266439,268257,268257,399244,413492"
+باجوا,باجوہ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,6,6,6,116,"1649,230493,272900,531366,598483,614333"
+لانتی,لعنتی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,5,5,3,59,"10095,262111,262635,462777,581810"
+مزہب,مذہب,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,5,5,1,24,"86345,128281,133570,191757,364545"
+بغیرت,بےغیرت,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,4,3,29,146,"10277,10277,265279,429231"
+لیک,لیگ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,4,3,18,86,"26594,26594,170608,271032"
+کوی,کوئی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,4,4,5,443,"18183,200382,286921,609794"
+ان,انشاء,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,3,3,702,46,"150370,355809,394959"
+یے,ہے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,3,3,17,3080,"126203,214512,406478"
+جاے,جائے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,3,2,9,198,"251461,251461,479119"
+کھبی,کبھی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,3,3,7,145,"20078,228374,285911"
+گۓ,گئے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,3,3,5,135,"49377,254333,268408"
+باجوے,باجوہ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,3,3,5,116,"272642,414923,565498"
+شاءاللہ,اللہ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,3,3,4,388,"150370,355809,394959"
+اباد,باد,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,3,1,3,36,"321009,321009,321009"
+ہیے,ہے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,3,2,2,3080,"22169,575826,575826"
+آی,آئی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,3,3,2,180,"20422,574530,592447"
+نی,نہیں,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,3,3,1,1576,"286172,286200,360406"
+کوٸ,کوئی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,3,3,1,443,"82410,122857,441428"
+لانت,لعنت,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,3,3,1,168,"257365,426598,652882"
+پٹواریو,پٹواریوں,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,3,3,1,37,"85701,127326,148100"
+کوٸ,کوٸی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,3,3,1,11,"270615,469208,524027"
+نئی,نہیں,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,2,2,22,1576,"150519,267509"
+ہوے,ہوئے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,2,2,14,132,"241209,268001"
+وو,وہ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,2,2,6,621,"343993,588446"
+جرنل,جنرل,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,2,1,6,112,"150612,150612"
+لوگو,لوگوں,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,2,2,5,221,"469920,566328"
+صاب,صاحب,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,2,2,3,238,"241244,588435"
+ل,ایل,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,2,1,3,17,"86345,86345"
+چوتیئے,چوتیے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,2,2,3,15,"453147,455725"
+ہیے,ہیں,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,2,1,2,1419,"22169,22169"
+استمال,استعمال,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,2,2,2,66,"469920,658756"
+ٹوئٹ,ٹوئیٹ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,2,2,2,14,"261206,571840"
+مرزیوں,مرزائیوں,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,2,2,2,10,"229980,666015"
+زلالت,ذلالت,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,2,1,2,2,"150666,150666"
+نہیی,نہیں,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,2,1,1,1576,"534711,534711"
+باجواہ,باجوہ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,2,2,1,116,"395578,460418"
+گالیا,گالیاں,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,2,2,1,41,"10553,237299"
+بگھوڑے,بھگوڑے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,2,2,1,39,"16328,267287"
+یوتھئیے,یوتھیے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,2,2,1,28,"200283,201877"
+یوتھیئے,یوتھیے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,2,2,1,28,"210373,230278"
+چوتیاں,چوتیا,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,2,1,1,24,"436231,436231"
+یوتھیاں,یوتھیا,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,2,2,1,24,"82953,324873"
+امرانڈو,عمرانڈو,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,2,2,1,15,"309112,313291"
+زات,ذات,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,2,2,1,15,"114810,430099"
+بیجھ,بھیج,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,2,2,1,13,"210649,506289"
+تھوڑنے,توڑنے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,2,1,1,13,"170294,170294"
+زہنی,ذہنی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,2,2,1,12,"20229,83955"
+مہنگائ,مہنگائی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,2,2,1,11,"221358,431065"
+ہوگئ,ہوگئی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,2,2,1,9,"357438,541926"
+بازارو,بازاری,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,2,2,1,7,"266948,534298"
+پای,پائی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,2,2,1,5,"286056,322460"
+کے,لے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,4087,164,240532
+اور,ہیں۔اور,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,2799,2,187855
+کا,کام,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,2277,123,266255
+کر,کرکے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1491,77,297362
+کر,کرا,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1491,8,584606
+ہیں,ہی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1419,644,81863
+نے,بےڈھنگ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1414,1,592447
+یہ,ہے۔یہ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1341,5,603569
+کہ,کہہ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,960,63,267509
+ہو,ہوا,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,893,217,418532
+ان,مان,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,702,27,571829
+عمران,۔عمران,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,547,3,65684
+ہے۔,ہے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,359,3080,164641
+ہے۔,۔,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,359,483,574530
+ہے۔,شریک,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,359,7,603569
+لیے,لے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,250,164,286173
+ہیں۔,رہے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,199,438,187855
+پہ,پی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,187,186,503100
+پی,پہ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,186,187,282748
+پی,ٹی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,186,123,630732
+بنا,بننا,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,137,6,20776
+افغان,افنان,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,108,2,608466
+بے,کے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,98,4087,293900
+بے,کو,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,98,2675,611029
+بے,نے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,98,1414,366818
+بے,،,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,98,274,230220
+بے,بےضمیر,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,98,11,287407
+بے,بےہودہ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,98,4,223018
+جی,کی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,94,3360,464613
+بس,بےبس,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,88,4,611029
+لیا,لیے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,87,250,621756
+لیا,لایا,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,87,17,365562
+جن,۔۔جن,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,82,1,20324
+میرے,میں,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,80,2642,367084
+سارے,سرے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,79,5,141999
+لو,لوں,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,72,1,267112
+ہیں،,ہیں,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,65,1419,230220
+چھوڑ,چور,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,65,171,3156
+ڈی,ٹی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,51,123,210555
+کھا,کھائیں,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,51,5,42812
+کتا,کرتا,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,50,135,618029
+بی,بھی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,45,1318,588446
+بی,ہی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,45,644,630732
+نہیں۔,نہیں,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,42,1576,394415
+اپ,اب,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,41,410,265866
+بتا,بولتا,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,41,12,358625
+لی,کی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,35,3360,190638
+عطا,عطاء,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,32,9,241078
+احمدی,احمد,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,31,34,588435
+بغیرت,بیغیرت,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,29,41,220623
+انکو,کو,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,28,2675,287407
+بد,۔۔۔,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,25,57,251984
+بد,گا؟ایک,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,25,1,272074
+یوتھیا,یوتھیاء,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,24,1,666548
+درست,درس,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,23,8,648251
+تا,ہے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,22,3080,26628
+ضمیر,ان,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,22,702,287407
+تا,تھا,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,22,482,23755
+ٹویٹ,ٹوئیٹ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,22,14,587004
+پہلا,پہلے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,19,159,438977
+بیغرت,بےغیرت,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,19,146,57592
+نکلا,نکالا,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,19,11,445701
+ڈر,؟؟؟,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,18,8,240560
+یے,یہ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,17,1341,5953
+دینی,دیتی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,17,18,268529
+اک,ایک,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,15,643,414923
+چھوٹے,جھوٹے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,15,29,2201
+تھا،,تھا,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,14,482,461054
+ٹوئیٹ,ٹویٹ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,14,22,259883
+سہی,صحیح,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,14,21,267879
+ہوے,ہوۓ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,14,14,84806
+شوباز,شہباز,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,13,79,247965
+من,منہ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,13,71,226978
+بچانے,بچائے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,13,6,150105
+کیا،,کیا,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,12,804,140843
+چود,چور,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,11,171,86579
+زرا,ذرا,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,11,15,286021
+کوٸی,کوی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,11,5,86475
+ک,کی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,10,3360,169659
+ک,کہ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,10,960,35329
+کیو,کیوں,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,10,153,224265
+بچا,بچہ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,10,49,286149
+ھر,بھر,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,10,26,27147
+ہوا۔,ہوا,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,9,217,136649
+ای,آئی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,9,180,286056
+دفع,دفعہ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,9,23,664749
+تے,تھے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,8,209,541931
+چول,چور,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,8,171,66457
+پہن,بہن,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,8,48,492334
+کئ,کئی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,8,17,627128
+اتر,اتار,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,8,11,406306
+کیلے,کے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,7,4087,323996
+ناں,نہ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,7,414,592447
+چورن,چور,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,7,171,228985
+ناں,نا,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,7,143,270170
+کیلے,کیلئے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,7,111,312746
+آذادی,آزادی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,7,63,263857
+اوہ,او,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,7,56,660948
+بچو,بچوں,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,7,56,3290
+آرہے,آ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,6,142,187855
+جنرلز,جنرل,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,6,112,585122
+پین,بہن,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,6,48,260977
+منایا,بنایا,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,6,47,86585
+بھری,بری,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,6,20,90293
+بھلا,بلا,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,6,17,42088
+شر,شرانگیزی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,6,1,398617
+لائے,لائحہ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,6,1,84806
+نیں,نے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,5,1414,401059
+شب,سب,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,5,401,419956
+دا,دے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,5,221,148267
+بہ,بے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,5,98,45445
+تماری,تمہاری,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,5,48,400268
+نکلی,نکل,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,5,44,265786
+واقع,واقعی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,5,13,285114
+زادہ,زدہ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,5,9,265637
+پل,پلنے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,5,4,430867
+ی,کی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,4,3360,660948
+ر,گے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,4,322,42812
+لۓ,لئے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,4,168,270847
+نوازا,نواز,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,4,131,590742
+ی,علی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,4,68,513486
+چھوڑے,چھوڑ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,4,65,621591
+واصل,اصل,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,4,57,439199
+بندا,بندہ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,4,36,415023
+بدنسلے,بدنسل,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,4,22,133884
+بڑوے,بھڑوے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,4,14,661982
+حثیت,حیثیت,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,4,13,287456
+پٹ,پھٹ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,4,8,285992
+مانے,پانے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,4,5,210559
+زکات,زکوت,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,4,1,350027
+خائن,خان,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,3,660,660572
+دو،,دو,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,3,184,462575
+نان,نا,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,3,143,251026
+آے,آئے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,3,84,359006
+الو,لو,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,3,72,584606
+صل,اصل,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,3,57,285744
+پیسا,پیسہ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,3,33,632965
+بغیرتوں,بےغیرتوں,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,3,30,10674
+چیرمین,چیئرمین,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,3,22,645943
+زاتی,ذاتی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,3,21,46898
+صیح,صحیح,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,3,21,287327
+حیاء,حیا,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,3,12,266347
+بھڑوہ,بھڑوا,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,3,10,465680
+سواد,سودا,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,3,9,63289
+آٸی,آی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,3,2,126998
+کھولو,کھولا,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,3,2,47850
+سنگ,سینگ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,3,1,482749
+پایا,پائہ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,3,1,555286
+ہ,ہے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,2,3080,246408
+ساب,صاحب,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,2,238,36824
+شریر,شریف,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,2,220,395607
+لعنت۔,لعنت,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,2,168,211632
+گٸی,گی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,2,167,190123
+گھٹیاں,گھٹیا,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,2,146,655643
+جئی,جی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,2,94,243315
+ے,اے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,2,71,508201
+کھ,کھا,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,2,51,47850
+ترے,تیرے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,2,50,266135
+یوتھیو,یوتھیوں,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,2,46,308550
+تمارے,تمہارے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,2,37,80229
+لفافا,لفافہ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,2,33,285975
+کتو,کتوں,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,2,33,1652
+بیغرتی,بےغیرتی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,2,20,263865
+بھوک,بھونک,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,2,16,84295
+دکھنے,دیکھنے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,2,16,268655
+خریدا,غریدہ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,2,13,265892
+زرائع,ذرائع,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,2,12,266397
+کینٹینر,کنٹینر,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,2,12,267666
+چودا,چود,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,2,11,492334
+سیکھایا,سکھایا,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,2,4,312746
+حرم,بھرم,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,2,2,214840
+تفصیلی,ہوگی؟تفصیلی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,2,1,377178
+مرزیوں,مرزئیوں,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,2,1,375148
+رکیک,کے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,4087,49394
+اور۔,اور,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,2799,387663
+نین,میں,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,2642,80587
+نئ,نہیں,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,1576,449575
+تو،,تو,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,1365,257711
+بو,ہو,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,893,240405
+ٹم,تم,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,414,635833
+ں,نہ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,414,502065
+ریا,رہا,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,404,270961
+قادیانی،,قادیانی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,267,219693
+فوج،,فوج,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,213,227117
+چھور,چور,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,171,503979
+کھٹیا,گھٹیا,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,146,19451
+دنیاں,دنیا,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,134,549130
+کتے۔,کتے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,111,220485
+ہوی,ہوئی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,78,84806
+پالٹی,پارٹی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,75,499537
+جاہیں,جائیں,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,70,20189
+جاتیں,جاتی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,63,340616
+تور,طور,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,59,272900
+پونا,ہونا,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,58,509751
+باتھ,ہاتھ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,52,210525
+ہیسے,پیسے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,46,36758
+خنجر,کنجر,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,44,286094
+گلیز,غلیظ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,42,55303
+جال,حال,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,41,286021
+زمہ,ذمہ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,36,505554
+دوبارا,دوبارہ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,33,629149
+خد,حد,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,31,270211
+ڈاکوں,ڈاکو,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,29,265413
+نیچھے,نیچے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,26,10197
+جنہم,جہنم,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,24,211489
+چوتھیا,چوتیا,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,24,84567
+ہودہ,قسم,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,24,223018
+ڈھیل,ڈال,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,23,490495
+نئ,نئی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,22,490495
+بگھوڑا,بھگوڑا,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,21,576244
+ذانی,زانی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,18,661124
+عزاب,عذاب,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,16,125489
+ہوٸے,ہوۓ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,14,267555
+بتاے,بتائے,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,12,286921
+بگوڑی,بھگوڑی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,10,270103
+بیکاری,بھکاری,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,10,365562
+خریدہ,خرید,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,10,270173
+مظبوط,مضبوط,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,10,356914
+کھاتی,کھوتی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,10,148267
+عطإ,عطاء,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,9,6446
+دلالو,دلالوں,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,8,10553
+ٹوئیٹر,ٹویٹر,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,8,30028
+تارک,طارق,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,7,309484
+نشی,نشہ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,6,590333
+چھڑا,چڑھا,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,6,285954
+بردار,برادر,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,5,273943
+موچھوں,مونچھوں,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,4,267918
+پھٹوارن,پٹوارن,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,4,81171
+ہوی,ہوئیں,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,4,508201
+بدتہزیب,بدتہذیب,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,3,285931
+بندو,بندوں,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,3,640476
+سکھا,سکھاتا,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,3,26628
+میلو,میلوں,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,2,628524
+کائی,کاٹی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,2,268654
+کنڈم,کنڈوم,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,2,285992
+بینالاقوامی,بینالقوامی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,1,464133
+دھرا,دھرہ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,1,283856
+روتی,رتی,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,1,270760
+هو,هوں,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,1,470928
+کھسروں,خسروں,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,1,269577
+کیلومیٹر,کلومیٹر,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,1,541931
+گانگ,کانگ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,1,427811
+گستاخِ,۔گستاخِ,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,1,136649
+گھڑے,گھڑو,possible_real_word_candidate,source token appears somewhere in processed corpus; needs lexicon/human review,1,1,1,1,439199
+ھے,ہے,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",21,16,366,3080,"7164,7164,10136,45180,80882,82134,82134,82134,82134,82670,84720,89641,103201,107384,122634,124745,124745,200432,220567,221358,556873"
+اپ,آپ,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",20,15,41,527,"15351,43582,43582,43582,43582,59431,83748,270012,392995,442033,455844,455844,467545,469920,469920,477134,600520,645915,651259,661139"
+ھیں,ہیں,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",11,8,89,1419,"45488,72509,76983,76983,84511,186961,221358,221358,265786,265786,290753"
+ھو,ہو,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",8,6,103,893,"45180,72509,85194,87282,200432,324873,324873,324873"
+مین,میں,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",8,7,18,2642,"36758,221763,226978,266194,538780,605422,605422,665066"
+تُم,تم,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",7,5,2,414,"232730,232730,266007,280510,418532,628841,628841"
+ھی,ہی,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",6,5,34,644,"7164,45488,84511,84511,122634,658574"
+ھم,ہم,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",5,5,20,376,"72509,86860,89641,200432,254929"
+آپنے,اپنے,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",5,5,5,394,"45488,224265,416044,424710,633538"
+رھا,رہا,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",4,4,29,404,"10713,113667,432816,556873"
+ا,آ,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",4,4,13,142,"262635,285824,406306,524287"
+اج,آج,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",4,4,11,279,"15971,214512,266007,460418"
+نھیں,نہیں,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",4,4,6,1576,"228374,283788,322460,432816"
+ھے۔,ہے۔,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",3,2,37,359,"113667,122634,122634"
+رھے,رہے,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",3,2,30,438,"76983,76983,186961"
+ھوا,ہوا,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",3,3,15,217,"83493,107384,594227"
+تمھارا,تمہارا,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",3,3,13,29,"430602,502771,534298"
+کوٸی,کوئی,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",3,3,11,443,"6446,266201,325911"
+آوٹ,آؤٹ,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",3,3,4,6,"251933,252095,252941"
+اتی,آتی,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",3,3,3,39,"455844,508401,524287"
+آپنی,اپنی,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",3,3,2,318,"3290,270470,272923"
+ائے,آئے,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",3,3,1,84,"266007,292992,461351"
+اخر,آخر,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",3,2,1,27,"455844,662197,662197"
+مذھب,مذہب,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",3,2,1,24,"360406,360406,541148"
+بیغیرت,بےغیرت,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",2,2,41,146,"63427,287409"
+اُس,اس,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",2,2,27,1379,"285878,594433"
+تمھارے,تمہارے,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",2,2,26,37,"534298,571715"
+جاو,جاؤ,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",2,2,20,33,"251933,257181"
+تمھاری,تمہاری,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",2,2,18,48,"433905,638279"
+ھوتا,ہوتا,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",2,2,17,122,"84511,103201"
+ھوتی,ہوتی,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",2,2,12,78,"103201,122634"
+اپکو,آپکو,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",2,1,5,21,"59431,59431"
+ہین,ہیں,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",2,1,3,1419,"461269,461269"
+ازاد,آزاد,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",2,2,3,77,"144417,323042"
+ایا,آیا,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",2,2,3,63,"461365,571829"
+باھر,باہر,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",2,2,3,59,"254929,649729"
+بتاو,بتاؤ,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",2,2,3,13,"220116,231068"
+آس,اس,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",2,2,2,1379,"159240,405379"
+بہی,بھی,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",2,1,2,1318,"344870,344870"
+کھ,کہ,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",2,2,2,960,"45445,469920"
+بھاٸی,بھائی,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",2,2,2,114,"63004,418231"
+مُنہ,منہ,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",2,1,2,71,"399278,399278"
+ھاتھ,ہاتھ,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",2,2,2,52,"289336,633538"
+اگے,آگے,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",2,2,2,36,"36790,662197"
+پہر,پھر,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",2,2,1,274,"54805,282748"
+بھت,بہت,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",2,2,1,208,"270469,444512"
+ھوگا,ہوگا,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",2,2,1,78,"82245,569244"
+یھودی,یہودی,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",2,2,1,58,"313896,575916"
+ادمی,آدمی,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",2,2,1,39,"36790,42812"
+اواز,آواز,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",2,2,1,33,"442352,447979"
+یوتھئے,یوتھیے,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",2,2,1,28,"269662,533710"
+آئے,آئی,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,84,180,48952
+اے,آے,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,71,3,267065
+او,آو,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,56,6,266284
+بی,بے,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,45,98,286976
+کیلیے,کیلئے,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,18,111,285763
+اُن,ان,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,16,702,266007
+اِن,ان,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,13,702,265970
+تمھیں,تمہیں,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,12,44,469208
+دیئے,دئیے,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,11,8,474063
+آور,اور,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,10,2799,64392
+اِس,اس,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,10,1379,564840
+ھر,ہر,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,10,168,10713
+انا,آنا,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,9,24,597524
+وھاں,وہاں,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,6,55,87282
+آو,آؤ,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,6,7,241164
+رھی,رہی,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,5,209,85194
+ائی,آئی,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,5,180,279793
+ھو۔,ہو۔,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,5,29,122634
+کُتے,کتے,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,4,111,540383
+آٸی,آئی,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,3,180,290719
+کیون,کیوں,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,3,153,285876
+بکاو,بکاؤ,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,3,7,261125
+بھئ,بھی,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,2,1318,414505
+آب,اب,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,2,410,263039
+آمریکہ,امریکہ,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,2,125,211489
+بیشرم,بےشرم,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,2,86,272923
+سُن,سن,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,2,34,265234
+آفسوس,افسوس,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,2,28,271492
+رھتا,رہتا,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,2,19,10136
+کرواو,کرواؤ,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,2,4,36790
+تُو,تو,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,1,1365,418532
+کوئئ,کوئی,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,1,443,43582
+کویئ,کوئی,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,1,443,107376
+آگر,اگر,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,1,288,23755
+گیے,گئے,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,1,135,380520
+یھی,یہی,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,1,104,10713
+ارمی,آرمی,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,1,63,503100
+اتا,آتا,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,1,34,468423
+اتے,آتے,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,1,30,447979
+ھاں,ہاں,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,1,27,103349
+سؤر,سور,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,1,26,567975
+اصف,آصف,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,1,23,20099
+بغضِ,بغض,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,1,19,10526
+نیے,نئے,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,1,18,662174
+مھاجروں,مہاجروں,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,1,15,79775
+اسمان,آسمان,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,1,14,16160
+ذھنی,ذہنی,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,1,12,347609
+گستاخِ,گستاخ,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,1,12,571971
+سقوطِ,سقوط,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,1,6,610415
+امیز,آمیز,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,1,4,396975
+لگاو,لگاؤ,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,1,4,341581
+آلو,الو,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,1,3,422596
+اٹھاو,اٹھاؤ,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,1,3,417202
+بچاو,بچاؤ,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,1,3,27147
+نصارٰی,نصاری,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,1,2,50142
+نااھلی,نااہلی,probably_spelling_or_orthographic,"source also appears in processed corpus, but pair is a common orthographic variant",1,1,1,1,147847

@@ -1,0 +1,12 @@
+rows_total,4339
+tweetprocess_missing,35
+raw_equals_processed_exact,1228
+clean_original_equals_clean_processed,1681
+rows_with_any_clean_change,2658
+all_change_records,6149
+one_to_one_replacement_instances,1766
+broad_candidate_instances,878
+broad_candidate_unique_rows,620
+likely_real_word_instances,103
+likely_real_word_unique_rows,85
+likely_real_word_unique_pairs,75
