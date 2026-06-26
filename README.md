@@ -138,7 +138,7 @@ NLP project/
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/HuzaifaQ-1/Urdu-Spelling-Correction.git
 cd "NLP project"
 ```
 
